@@ -1,0 +1,3986 @@
+[
+ {
+  "data": "2026-01-09",
+  "versao_checklist": "v.3",
+  "auditor": "Jeniffer Tintino",
+  "score": 28,
+  "score_max": 114,
+  "pct": 24.56,
+  "itens_casados": 35,
+  "itens_catalogo": 38,
+  "pontos_calculados": 30,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    2,
+    40
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    6,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    12,
+    37
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    11
+   ],
+   "DOCUMENTAÇÃO": [
+    1,
+    5
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-9.pdf"
+ },
+ {
+  "data": "2026-01-24",
+  "versao_checklist": "v.3",
+  "auditor": "Jeniffer Tintino",
+  "score": 42,
+  "score_max": 116,
+  "pct": 36.21,
+  "itens_casados": 35,
+  "itens_catalogo": 38,
+  "pontos_calculados": 41,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    6,
+    44
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    9,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    24,
+    37
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    2,
+    9
+   ],
+   "DOCUMENTAÇÃO": [
+    1,
+    5
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-8.pdf"
+ },
+ {
+  "data": "2026-02-05",
+  "versao_checklist": "v.3",
+  "auditor": "Jeniffer Tintino",
+  "score": 61,
+  "score_max": 132,
+  "pct": 46.21,
+  "itens_casados": 35,
+  "itens_catalogo": 38,
+  "pontos_calculados": 61,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    18,
+    53
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    13,
+    25
+   ],
+   "HIGIENIZAÇÃO": [
+    22,
+    37
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    9
+   ],
+   "DOCUMENTAÇÃO": [
+    1,
+    8
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-1.pdf"
+ },
+ {
+  "data": "2026-02-21",
+  "versao_checklist": "v.3",
+  "auditor": "Jeniffer Tintino",
+  "score": 65,
+  "score_max": 118,
+  "pct": 55.08,
+  "itens_casados": 35,
+  "itens_catalogo": 38,
+  "pontos_calculados": 65,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    16,
+    49
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    12,
+    25
+   ],
+   "HIGIENIZAÇÃO": [
+    27,
+    34
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    9,
+    9
+   ],
+   "DOCUMENTAÇÃO": [
+    1,
+    1
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-7.pdf"
+ },
+ {
+  "data": "2026-03-11",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 76,
+  "score_max": 141,
+  "pct": 53.9,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 76,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    30,
+    59
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    10,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    27,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    9
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-6.pdf"
+ },
+ {
+  "data": "2026-03-28",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 70,
+  "score_max": 133,
+  "pct": 52.63,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 70,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    17,
+    54
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    13,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    31,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    6
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-5.pdf"
+ },
+ {
+  "data": "2026-04-21",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 47,
+  "score_max": 129,
+  "pct": 36.43,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 46,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    8,
+    54
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    13,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    19,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    5,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    2
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-4.pdf"
+ },
+ {
+  "data": "2026-05-06",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 72,
+  "score_max": 133,
+  "pct": 54.14,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 70,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    23,
+    59
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    10,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    30,
+    38
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    13
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    2
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-2.pdf"
+ },
+ {
+  "data": "2026-06-21",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 62,
+  "score_max": 134,
+  "pct": 46.27,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 62,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    17,
+    59
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    9,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    30,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    4,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    2
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-10.pdf"
+ },
+ {
+  "data": "2026-07-08",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 90,
+  "score_max": 141,
+  "pct": 63.83,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 88,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    28,
+    59
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    16,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    33,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    11,
+    13
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    6
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-11.pdf"
+ },
+ {
+  "data": "2026-07-22",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 88,
+  "score_max": 138,
+  "pct": 63.77,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 86,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    36,
+    64
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    13,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    30,
+    38
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    7,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    5
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "C",
+    "pontos_max": 12,
+    "pontos_obtidos": 12
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NA",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-12.pdf"
+ },
+ {
+  "data": "2026-08-03",
+  "versao_checklist": "v.4",
+  "auditor": "Jeniffer Tintino",
+  "score": 80,
+  "score_max": 138,
+  "pct": 57.97,
+  "itens_casados": 38,
+  "itens_catalogo": 38,
+  "pontos_calculados": 78,
+  "categorias": {
+   "PONTOS CRÍTICOS": [
+    23,
+    59
+   ],
+   "MANIPULAÇÃO E QUALIDADE": [
+    13,
+    21
+   ],
+   "HIGIENIZAÇÃO": [
+    32,
+    42
+   ],
+   "RECEBIMENTO E ARMAZENAMENTO": [
+    10,
+    10
+   ],
+   "DOCUMENTAÇÃO": [
+    2,
+    6
+   ]
+  },
+  "itens": [
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos vencidos e produtos para troca ou descarte identificados. Ausência de produtos revalidados ou indícios de revalidação",
+    "item_chave": "ausencia de produtos vencidos e produtos para troca ou descarte identificados ausencia de produtos revalidados ou indicios de revalidacao",
+    "resposta": "NC",
+    "pontos_max": 12,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Produtos identificados e protegidos corretamente (considerar sobras limpas)",
+    "item_chave": "produtos identificados e protegidos corretamente considerar sobras limpas",
+    "resposta": "NC",
+    "pontos_max": 10,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de pragas ou vestígios",
+    "item_chave": "ausencia de pragas ou vestigios",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Contaminação cruzada evitada através de procedimento ou separação física (geladeira, celular, caixa de papelão e panos)",
+    "item_chave": "contaminacao cruzada evitada atraves de procedimento ou separacao fisica geladeira celular caixa de papelao e panos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Descongelamento em geladeira ou sob calor (cocção)",
+    "item_chave": "descongelamento em geladeira ou sob calor coccao",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Higienização correta de frutas, verduras e legumes",
+    "item_chave": "higienizacao correta de frutas verduras e legumes",
+    "resposta": "NA",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Manipuladores: uniforme, touca, adornos, hábitos, asseio pessoal e estado de saúde",
+    "item_chave": "manipuladores uniforme touca adornos habitos asseio pessoal e estado de saude",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Pia de lavagem de mãos completa (abastecidas com sabonete antisséptico inodoro e papel toalha descartável) e práticas corretas na lavagem",
+    "item_chave": "pia de lavagem de maos completa abastecidas com sabonete antisseptico inodoro e papel toalha descartavel e praticas corretas na lavagem",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Temperatura adequada dos equipamentos",
+    "item_chave": "temperatura adequada dos equipamentos",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Ausência de produtos estragados ou fora do padrão de qualidade",
+    "item_chave": "ausencia de produtos estragados ou fora do padrao de qualidade",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "PONTOS CRÍTICOS",
+    "item": "Uso adequado e armazenamento correto de produtos químicos/ borrifador identificado",
+    "item_chave": "uso adequado e armazenamento correto de produtos quimicos borrifador identificado",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Abertura das lixeiras de forma correta/ pedais funcionando corretamente",
+    "item_chave": "abertura das lixeiras de forma correta pedais funcionando corretamente",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Bancadas, utensílios e equipamentos higienizados com sanitizante antes do uso",
+    "item_chave": "bancadas utensilios e equipamentos higienizados com sanitizante antes do uso",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Uso adequado de luvas descartáveis ou pegador ao manipular alimentos prontos para o consumo. Caixas de luvas disponíveis e abastecidas.",
+    "item_chave": "uso adequado de luvas descartaveis ou pegador ao manipular alimentos prontos para o consumo caixas de luvas disponiveis e abastecidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Caixas e potes limpos em bom estado de conservação e sem resíduos de etiquetas",
+    "item_chave": "caixas e potes limpos em bom estado de conservacao e sem residuos de etiquetas",
+    "resposta": "NC",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Equipamentos de cocção, refrigeração e demais equipamentos em bom estado de conservação e higiene",
+    "item_chave": "equipamentos de coccao refrigeracao e demais equipamentos em bom estado de conservacao e higiene",
+    "resposta": "NC",
+    "pontos_max": 5,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Estrutura em bom estado de conservação e sem necessidade de melhorias rápidas",
+    "item_chave": "estrutura em bom estado de conservacao e sem necessidade de melhorias rapidas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "MANIPULAÇÃO E QUALIDADE",
+    "item": "Temperatura dos alimentos em exposição (quente e frio) adequadas. Temperatura dos equipamentos conformes.",
+    "item_chave": "temperatura dos alimentos em exposicao quente e frio adequadas temperatura dos equipamentos conformes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Procedimento de higienização adequado (lavar + desinfetar)/lava-louça funcionado adequadamente e em bom estado de conservação e higiene. Esponjas não ficam submersas em solução (baldinhos)",
+    "item_chave": "procedimento de higienizacao adequado lavar desinfetar lava louca funcionado adequadamente e em bom estado de conservacao e higiene esponjas nao ficam submersas em solucao baldinhos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Uso de EPI (luvas de borracha, botas, óculos de segurança e máscara protetora)",
+    "item_chave": "uso de epi luvas de borracha botas oculos de seguranca e mascara protetora",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Lixo armazenado de forma correta/ coletado de forma segura/ coletores limpos",
+    "item_chave": "lixo armazenado de forma correta coletado de forma segura coletores limpos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE MANIPULAÇÃO (PRÉ-PREPARO, PRODUÇÃO, COCÇÃO, PREPARO DE BEBIDAS E DELIVERY) - piso, paredes, teto, luminárias, prateleiras, bancadas e ralos e rodapés",
+    "item_chave": "condicoes de higiene das areas de manipulacao pre preparo producao coccao preparo de bebidas e delivery piso paredes teto luminarias prateleiras bancadas e ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das ÁREAS DE HIGIENIZAÇÃO - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, pia e ralos",
+    "item_chave": "condicoes de higiene das areas de higienizacao piso paredes rodapes teto luminarias prateleiras bancadas pia e ralos",
+    "resposta": "C",
+    "pontos_max": 5,
+    "pontos_obtidos": 5
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do ESTOQUE  - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene do estoque piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene do SALÃO - piso, paredes, teto, portas, luminárias, aparadores, mesas e cadeiras, ralos e rodapés",
+    "item_chave": "condicoes de higiene do salao piso paredes teto portas luminarias aparadores mesas e cadeiras ralos e rodapes",
+    "resposta": "C",
+    "pontos_max": 4,
+    "pontos_obtidos": 4
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene da SALA DE CONVIVÊNCIA/ REFEITÓRIO, VESTIÁRIOS e SANITÁRIOS - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas, janelas, telas, portas, ralos e rodapés",
+    "item_chave": "condicoes de higiene da sala de convivencia refeitorio vestiarios e sanitarios piso paredes rodapes teto luminarias prateleiras bancadas janelas telas portas ralos e rodapes",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene dos sanitários de CLIENTES - piso, paredes, rodapés, teto, luminárias, prateleiras, bancadas e ralos",
+    "item_chave": "condicoes de higiene dos sanitarios de clientes piso paredes rodapes teto luminarias prateleiras bancadas e ralos",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Condições de higiene das DEMAIS ÁREAS (corredores, áreas de apoio, passagem e externa) - escadas, piso, paredes e rodapés, portas, telas, janelas, teto, luminárias, prateleiras, bancadas e ralos e grelhas",
+    "item_chave": "condicoes de higiene das demais areas corredores areas de apoio passagem e externa escadas piso paredes e rodapes portas telas janelas teto luminarias prateleiras bancadas e ralos e grelhas",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Utensílios de limpeza limpos e em bom estados, armazenados corretamente. Há separação dos utensílios utilizados nos sanitários",
+    "item_chave": "utensilios de limpeza limpos e em bom estados armazenados corretamente ha separacao dos utensilios utilizados nos sanitarios",
+    "resposta": "NC",
+    "pontos_max": 2,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "HIGIENIZAÇÃO",
+    "item": "Diluidor funcionando corretamente; diluição manual (se necessário) feita corretamente; galões de produtos armazenados de forma adequada",
+    "item_chave": "diluidor funcionando corretamente diluicao manual se necessario feita corretamente galoes de produtos armazenados de forma adequada",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armários, prateleiras, palets e caixas limpas e em bom estado de conservação",
+    "item_chave": "armarios prateleiras palets e caixas limpas e em bom estado de conservacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos no ESTOQUE - em sistema PVPS, afastados de piso, parede e teto)",
+    "item_chave": "armazenamento adequado de produtos no estoque em sistema pvps afastados de piso parede e teto",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Armazenamento adequado de produtos nos FREEZERS, GELADEIRAS e CÂMARAS",
+    "item_chave": "armazenamento adequado de produtos nos freezers geladeiras e camaras",
+    "resposta": "C",
+    "pontos_max": 3,
+    "pontos_obtidos": 3
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Embalagens organizadas e protegidas",
+    "item_chave": "embalagens organizadas e protegidas",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   },
+   {
+    "categoria": "RECEBIMENTO E ARMAZENAMENTO",
+    "item": "Procedimento de recebimento adequado, temperaturas registradas",
+    "item_chave": "procedimento de recebimento adequado temperaturas registradas",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Controle de documentação adequado e atualizado",
+    "item_chave": "controle de documentacao adequado e atualizado",
+    "resposta": "NA",
+    "pontos_max": 3,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Formulários de qualidade preenchidos (controle da temperatura dos equipamentos; controle de temperatura dos alimentos em distribuição; recebimento de matéria prima; registro de higienização geral e de sanitários e monitoramento de pragas)",
+    "item_chave": "formularios de qualidade preenchidos controle da temperatura dos equipamentos controle de temperatura dos alimentos em distribuicao recebimento de materia prima registro de higienizacao geral e de sanitarios e monitoramento de pragas",
+    "resposta": "NC",
+    "pontos_max": 4,
+    "pontos_obtidos": 0
+   },
+   {
+    "categoria": "DOCUMENTAÇÃO",
+    "item": "Último informativo sobre treinamento prático está disponível para a equipe O tema do último treinamento prático mensal realizado deve estar disponível a todos os colaboradores, no mural ou outro local de fácil visualização",
+    "item_chave": "ultimo informativo sobre treinamento pratico esta disponivel para a equipe o tema do ultimo treinamento pratico mensal realizado deve estar disponivel a todos os colaboradores no mural ou outro local de facil visualizacao",
+    "resposta": "C",
+    "pontos_max": 2,
+    "pontos_obtidos": 2
+   }
+  ],
+  "arquivo": "Analia-Franco-13.pdf"
+ }
+]
